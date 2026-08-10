@@ -4,7 +4,15 @@ The [faculty guide](../guide/index.md) is one half of A Site of One's Own — th
 
 It descends from a real deployment at a US university, de-identified for publication.  The technical details are kept intact; the institutional specifics are yours to fill in.  Treat it as a working starting point from people who have run this, not as compliance advice.
 
-One honest note before you build: you can also buy this.  [Reclaim Hosting](https://www.reclaimhosting.com/domain-of-ones-own/) — the people who grew Domain of One's Own from a campus experiment into a movement — will run an institutional version of essentially this model: an annual fee, your own virtual machine, their management layer, and years of experience behind it.  If you can get that budget approved, they are the proven path, and this playbook will still help you understand exactly what you're buying.  This project exists for the other outcome: the year the quote didn't fit the budget, and your team decided to take the onus on itself.
+One honest note before you build: you can also buy this.  [Reclaim Hosting](https://www.reclaimhosting.com/domain-of-ones-own/) — the people who grew Domain of One's Own from a campus experiment into a movement — will run an institutional version of essentially this model: an annual fee, your own virtual machine, their management layer, and years of experience behind it.  If you can get that budget approved, they are the proven path, and this playbook will still help you understand exactly what you're buying.  This project exists for the other outcome: the year the line item didn't survive, and your team decided to take the onus on itself.
+
+## The case for a central service
+
+The budget math here is strange, and worth naming before you make the pitch you will inevitably have to make.  Nobody blinks when a research group spends a few hundred dollars a year on hosting; forty groups doing it separately is invisible.  A single central line item for the same capability gets scrutinized — even at an entirely reasonable price.  And the corollary, familiar to anyone who has run this gauntlet: the same service built from an existing cloud subscription and staff time requires no purchase order at all.  Spend shaped like consumption and salary is invisible; spend shaped like a signature is not.  If you argue this service on hosting cost alone, you will lose to the invisible status quo every time.
+
+Because the savings were never in the hosting.  They are in everything each group no longer has to do alone: choosing a platform, learning it, securing it, backing it up, and remembering it exists after the one student who ran it graduates.  Done well centrally, dozens of small, badly-maintained wheels become one well-maintained one — and even the wheel is not the point.  The value shows up as a consistent institutional presence instead of a patchwork of expired certificates and abandoned themes; as researchers who feel supported instead of left to fend for themselves; and as lab websites that help principal investigators recruit graduate students competitively in their fields — because a prospective student comparing labs sees the website before the science.
+
+The cost of the platform is real and visible.  The value is larger, but only if the service is delivered well — which is precisely what the launch gates below are for.
 
 ## The pieces
 

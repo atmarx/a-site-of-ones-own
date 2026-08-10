@@ -4,6 +4,8 @@ The [faculty guide](../guide/index.md) is one half of A Site of One's Own — th
 
 It descends from a real deployment at a US university, de-identified for publication.  The technical details are kept intact; the institutional specifics are yours to fill in.  Treat it as a working starting point from people who have run this, not as compliance advice.
 
+One honest note before you build: you can also buy this.  [Reclaim Hosting](https://www.reclaimhosting.com/domain-of-ones-own/) — the people who grew Domain of One's Own from a campus experiment into a movement — will run an institutional version of essentially this model: an annual fee, your own virtual machine, their management layer, and years of experience behind it.  If you can get that budget approved, they are the proven path, and this playbook will still help you understand exactly what you're buying.  This project exists for the other outcome: the year the quote didn't fit the budget, and your team decided to take the onus on itself.
+
 ## The pieces
 
 - **[Service offering](service-offering.md)** — the service design: who can request a site, what the service includes and pointedly does not, hostname and DNS policy, certificates, responsibilities, lifecycle, and the decisions a service owner must approve before launch.  This is the document you adapt into your institution's own service description.

@@ -20,6 +20,7 @@ playbook/
   index.md                     Operator orientation — the platform's shape and where to start
   service-offering.md          Service design: eligibility, inclusions, DNS/TLS policy, lifecycle
   governance-and-launch-gates.md  From "deployed" to "open for business": decisions, inventory, proofs
+  identity-and-access.md       Optional SSO integration (Globus worked example); the leaving problem
 templates/
   azure/
     README.md                  Validate / deploy / verify walkthrough

@@ -18,6 +18,7 @@ The cost of the platform is real and visible.  The value is larger, but only if 
 
 - **[Service offering](service-offering.md)** — the service design: who can request a site, what the service includes and pointedly does not, hostname and DNS policy, certificates, responsibilities, lifecycle, and the decisions a service owner must approve before launch.  This is the document you adapt into your institution's own service description.
 - **[Governance and launch gates](governance-and-launch-gates.md)** — the gap between "deployed" and "open for business": the decision register, the site inventory, backup proof, monitoring, runbooks, and the evidence your governance process will want back.
+- **[Identity and access](identity-and-access.md)** — an optional single sign-on integration (worked example: Globus Auth and Globus Groups) that answers three questions forever: departed members can't log in, faculty add editors by adding people to a group, and a central login portal teleports users to the right dashboard without knowing their site's address.  Local WordPress accounts remain the default; this is the upgrade path.
 - **[Azure reference implementation](../templates/azure/README.md)** — a complete deployable template: Bicep, guarded first-boot bootstrap, backup and disk-growth tooling, deployment and verification scripts, and the [host specification](../templates/azure/host-specification.md) that serves as its architecture document and acceptance contract.
 
 ## The shape of the platform
